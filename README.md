@@ -6,4 +6,4 @@ A Python project to generate strong passwords based on user requirements. This g
 - Easy to Use.
 - Generate passwords of specified length.
 - Include/exclude special characters.
-- Creates strong passwords.
+- Creates strong password.
